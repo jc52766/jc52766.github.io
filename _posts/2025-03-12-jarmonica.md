@@ -10,6 +10,7 @@ As a beginner harmonica player I need fresh exercises.<br/>
 Exercises to improve single note playing and accuracy jumping holes.<br/>
 <br/>
 ```j
+{% raw %}
 pos=:1 NB. position? 1st, 2nd, ...
 xi=:4 NB. which notes to pick from per pattern? 2,3,4,...?
 ]xo=:(- , ]) pos+i.xi NB. options
@@ -28,5 +29,6 @@ _4  4 _3 _1
 _3  4  3 _1
  1  4 _3  1
  1  2  4  2
+ {% endraw %}
  ```
 <br/>
