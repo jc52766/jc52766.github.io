@@ -6,8 +6,6 @@ tags: [Harmonica, J, Music]
 
 # Jarmonica - Generating harmonica exercises with J
 <br/>
-J strikes again. With such an easy solution to the problem.<br/>
-<br/>
 As a beginner harmonica player I need fresh exercises.<br/>
 Exercises to improve single note playing and accuracy jumping holes.<br/>
 <br/>
