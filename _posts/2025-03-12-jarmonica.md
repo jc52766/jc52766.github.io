@@ -11,16 +11,17 @@ So lets get a computer program to generate these exercises.<br/>
 <br/>
 ```j
 {% raw %}
-  'pos xi xnn xnp'=:1;4;6;5 NB. pos, n notes, n notes per pattern,  how many patterns?
-   xo=:(- , ]) pos+i.xi
+  'pos xn xnpp xnp'=:1;4;6;5 NB. pos, n notes, n notes per pattern,  how many patterns?
+   xo=:(- , ]) pos+i.xn
    rs=: 3 : '?#xo'
-   xs=:{{< xo {~ rs"0] i.xnn}}"0 i.xnp
+   xs=:{{< xo {~ rs"0] i.xnpp}}"0 i.xnp
    >xs
- 2 _4 _2 _4 _1  1
-_3  1  1 _3  4 _3
- 2 _4 _1 _3 _1  2
- 2 _4  2 _3  1 _1
-_2  1  1 _3 _4 _3
+ 1 _3  4 _1 _4 _3
+_1  1 _3  4 _3 _4
+ 2  3  3 _4  1 _2
+ 2 _2  2  4 _4  1
+ 4  4  2  4 _4  4
+   
  {% endraw %}
  ```
 <br/>
