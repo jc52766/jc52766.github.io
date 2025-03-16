@@ -6,8 +6,8 @@ tags: [Harmonica, J, Music]
 
 # Jarmonica - Generating harmonica exercises with J
 <br/>
-As a beginner harmonica player I need fresh exercises.<br/>
-Exercises to improve single note playing and accuracy jumping holes.<br/>
+Harmonica players need fresh exercises to improve single note playing and accuracy jumping holes.<br/>
+So lets get a computer program to generate these exercises.<br/>
 <br/>
 ```j
 {% raw %}
