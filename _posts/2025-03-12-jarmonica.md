@@ -8,9 +8,8 @@ tags: [Harmonica, J, Music]
 <br/>
 J strikes again. With such an easy solution to the problem.<br/>
 <br/>
-As a beginner harmonica player I wanted fresh exercises.<br/>
-I also didn't want to be limited by my own imagination and non-randomness.<br/>
-I needed exercises that get me used to playing different single notes across randomly selected holes.<br/>
+As a beginner harmonica player I need fresh exercises.<br/>
+Exercises to improve single note playing and accuracy jumping holes.<br/>
 <br/>
 ```j
 pos=:1 NB. position? 1st, 2nd, ...
