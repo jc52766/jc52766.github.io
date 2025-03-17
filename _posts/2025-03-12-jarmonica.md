@@ -4,7 +4,6 @@ categories: [Harmonica, J, Music]
 tags: [Harmonica, J, Music]
 ---
 
-# Jarmonica - Generating harmonica exercises with J
 <br/>
 <br/>
 ```j
